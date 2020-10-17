@@ -7,4 +7,5 @@ git config user.email letskodeit@gmail.com
 git add
 gir commit -m "message you want to include"
 git log
-Git diff <filename>
+git diff <filename>
+otra linea
